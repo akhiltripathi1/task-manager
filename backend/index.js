@@ -8,7 +8,7 @@ dotenv.config();
 const app = express();
 
 app.get('/',(req,res)=>{
-    res.send("Welcome from the server");
+    res.send("Welcome from the server - everything is running smoothly");
 })
 
 // Enable CORS so frontend apps from other origins can access this API
