@@ -146,7 +146,7 @@ function TaskManager() {
 
     return (
         <div className="d-flex flex-column align-items-center w-50 m-auto mt-5">
-            <h1 className="m-4">Task Manager</h1>
+            <h1 className="m-4">Task Manager App</h1>
             {/* input and search box */}
             <div className="d-flex justify-content-between align-items-center mb-4 w-100">
 
